@@ -20,6 +20,20 @@ ________________________________________
 •	Smooth navigation between screens
 
 •	Ability to restart the quiz from the main menu
+
+
+## Quiz Application menu
+
+![Quiz Application menu](https://github.com/Martus-21/Quiz-Master/blob/05e944fd993d2b8ea13844ac8f1e8da185b83b60/Quiz_app/resources/Java%201.png)
+
+## Questions
+
+![Questions](https://github.com/Martus-21/Quiz-Master/blob/05e944fd993d2b8ea13844ac8f1e8da185b83b60/Quiz_app/resources/Java%206.png)
+
+## Results
+
+![Results](https://github.com/Martus-21/Quiz-Master/blob/05e944fd993d2b8ea13844ac8f1e8da185b83b60/Quiz_app/resources/Java%207.png)
+
 ________________________________________
 ## Tech Stack
 •	Java (JDK 22)
